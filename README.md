@@ -1,4 +1,4 @@
-# 计191 高萌 2019310175
+# 计192 马宇豪 2019310204
 ## 实验四 接口程序实验
 
 ### 一、	实验目的： 
@@ -86,7 +86,8 @@ DoctoralCandidate[] x = new DoctoralCandidate[2];
 ```
 
 ### 六、	实验结果
-![实验结果截图](https://github.com/GM-01/JavaExperiment-3/blob/main/3.png)
+![实验结果截图](https://github.com/mayuhao1023/JAVA4/blob/main/d169df656ecbbe1ca177c4de3c886a2.png)
+![实验结果截图](https://github.com/mayuhao1023/JAVA4/blob/main/ae4dd52a3dca3918a77e6a7af6fdd0a.png)
 
 ### 七、	实验感想
    这次实验主要体现了抽象类，接口与异常处理的使用，以及当程序完成后，对程序细节的优化，抽象类与接口的使用，可以在接口中去仅仅做函数的声明，在其余抽象类中去实现相关函数的方法，且相同函数声明在不同类中能用不同的方法的实现。在企业生产中，可以分配给不同员工，写不同的任务，并且可以同时在测试类中体现。  
